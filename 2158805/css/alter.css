@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+  .navi{
+
+    border: 20px solid ;
+    color : white;
+    background-color: skyblue;
+      letter-spacing: 5px;
+      padding-top: 30px;
+      padding-bottom: 15px;
+      font: 20px Montserrat, sans-serif;
+      font-size: 20px;
+  }
+   #navi{
+
+    border: 20px solid ;
+    color : white;
+    background-color: skyblue;
+      letter-spacing: 5px;
+      padding-top: 30px;
+      padding-bottom: 15px;
+      font: 20px Montserrat, sans-serif;
+}
+   #links{
+	 list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+   
+	
+    
+</style>
+
+</html>

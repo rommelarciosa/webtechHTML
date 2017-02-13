@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<
+<style>
+
+body{  
+}
+
+  .nav_whole{
+      background-color:  white;
+      letter-spacing: 4px;
+      padding-top: 30px;
+      padding-bottom: 20px;
+      font: 20px Montserrat, sans-serif;
+      
+
+  }
+  .navbar{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+  }
+
+  li a{
+    display: block;
+    color: #2f2f2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+
+  li a:hover{
+    background-color:  #2f2f2f;
+    color: white;
+
+  }
+  .home{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font: 20px Montserrat, sans-serif;
+    background-color: #1abc9c;
+  }
+   h3{
+    color: white;
+  }
+   h1{
+    color: white;
+  }
+
+  .home:hover{
+    background-color:   #800080;
+    
+  }
+  .image1{
+   border-radius: 50%;
+  }
+
+  .introduction_content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+  } 
+
+  .introduction_content:hover{
+     color:  #2f2f2f ;  
+}
+
+  .introduction_whole{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font: 17px Montserrat, sans-serif;
+    background-color: white ;
+    color: white;
+    letter-spacing: 2px;
+ }
+
+  .introduction_whole:hover{
+    background-color: white ;
+    color: black;
+    border: none; 
+}
+
+    
+
+   footer{
+      color : white;
+      background-color:  #2f2f2f;
+      letter-spacing: 3px;
+      padding-top: 20px;
+      padding-bottom: 30px;
+      text-align: center;
+      font: 20px Montserrat, sans-serif;
+  }
+
+  p a{
+    color: white;
+    text-decoration: none;
+    
+  }
+
+   p a:hover{
+    border-style: dotted;
+    border-color: white;   
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .border{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 30px;
+   padding-top: 30px;
+   font: 20px Montserrat, sans-serif;
+   text-align: center;
+
+
+  }
+ 
+ h1{
+  text-align: center;
+ }
+   
+
+
+
+
+
+
+
+.image6{
+  border-radius: 50%;
+}
+
+.image7{
+  border-radius: 50%;
+}
+
+
+</style>
+</html>
