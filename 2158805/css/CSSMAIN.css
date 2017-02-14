@@ -110,26 +110,58 @@ body{
 
 
 
-
-
-
-
-
-
-  .border{
+  
+  .personal_Particular_header{
    background-color: #1abc9c;
    color: white;
-   padding-bottom: 30px;
+   padding-bottom: 5px;
    padding-top: 30px;
    font: 20px Montserrat, sans-serif;
    text-align: center;
-
-
+  }
+  .personal_Particular_content{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 30px;
+   padding-top: 5px;
+   font: 20px Montserrat, sans-serif;
+ 
+  }
+.personal_Particular_content:hover{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 30px;
+   padding-top: 5px;
+   font: 22px Montserrat, sans-serif;
+   border-style: solid;
+  }
+  .Education_header{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 5px;
+   padding-top: 30px;
+   font: 20px Montserrat, sans-serif;
+   text-align: center;
+  }
+  .Education_content{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 30px;
+   padding-top: 5px;
+   font: 20px Montserrat, sans-serif;
+   
+  }
+ .Education_content:hover{
+   background-color: #1abc9c;
+   color: white;
+   padding-bottom: 30px;
+   padding-top: 5px;
+   font: 22px Montserrat, sans-serif;
+   border-style: solid;
   }
  
- h1{
-  text-align: center;
- }
+ 
+ 
    
 
 
